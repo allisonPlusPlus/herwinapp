@@ -785,3 +785,7 @@ img::selection {
 img::-moz-selection {
   background: 0 0;
 }
+
+.logo-text {
+  font-size: 72px
+}
